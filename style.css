@@ -1,0 +1,26 @@
+html{
+    background-color: black;
+}
+
+li {
+    color: white;
+}
+.custom {
+    padding: 4%;
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+    padding-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h {
+    font-size: 50px;
+}
+
+#myInput {
+   padding-top: 10px;
+   color: purple;
+}
